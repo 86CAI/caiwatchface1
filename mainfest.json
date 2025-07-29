@@ -1,12 +1,12 @@
 {
   "item": {
     "name": "芙宁娜海边",
-    "description": "芙宁娜表盘",
+    "description": "一个简约的芙宁娜微景深表盘",
     "preview": [
       "小米手环9Pro-样机-1753539633029.png",
       "小米手环9Pro-样机-1753539651339.png"
     ],
-    "icon": "1000041034 (2).png",
+    "icon": "icon.png",
     "source_url": "",
     "author": [
       {
@@ -18,8 +18,7 @@
   "downloads": {
     "n66": {
       "version": "1.0.0",
-      "file_name": "芙宁娜海边-V10-202507262121.bin"
-    },
+      "file_name": "芙宁娜海边-V10-202507262121.bin
     }
   }
 }
